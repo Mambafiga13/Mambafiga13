@@ -1,0 +1,79 @@
+@charset "UTF-8";
+.CONTbody {
+	background-color: #FEEFDD;
+}
+.CONTbody .CABECERA {
+	background-color: #201E1F;
+}
+.CONTbody .CABECERA img {
+	margin-top: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.CONTbody .CABECERA img {
+	float: none;
+}
+.CONTbody .CABECERA .Menu {
+	text-align: right;
+	font-size: 15pt;
+	background-color: #FAAA8D;
+}
+.CABECERA .Menu a {
+	color: #201E1F;
+}
+.Secion1 .CONT.img img {
+	width: 100%;
+}
+.CONTbody .Secion1 h1 {
+	position: absolute;
+	left: 691px;
+	top: 286px;
+	color: #FFFFFF;
+	font-size: 70pt;
+	width: 100%;
+}
+.SECCION2 .CONT1 img {
+	float: right;
+	font-size: 0pt;
+	clear: right;
+}
+.SECCION2 .CONT1 h2 {
+	font-size: 30pt;
+	float: left;
+	text-align: center;
+}
+.SECCION2 .CONT1 p {
+	font-size: 21pt;
+	text-align: justify;
+}
+.CONTbody .INFOGRAFIA .CONT.INFOG {
+	text-align: center;
+}
+.CONTbody .DES {
+	background-color: #50B2C0;
+	color: #FFFFFF;
+	text-align: center;
+}
+.CONTbody .DESTACADOS .CONT2 {
+	margin-top: 53px;
+	margin-right: 53px;
+	margin-bottom: 53px;
+	margin-left: 53px;
+	text-align: center;
+	color: #201E1F;
+	background-color: #FAAA8D;
+}
+.CONTbody .PIE {
+	background-color: #201E1F;
+}
+.CONTbody .PIE .CONT.IMG {
+	float: left;
+	padding-left: 60px;
+	position: absolute;
+}
+.CONTbody .PIE .CONT3 {
+	color: #FFFFFF;
+	text-align: left;
+	padding-left: 402px;
+}
